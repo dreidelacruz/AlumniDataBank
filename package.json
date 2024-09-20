@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jaro-winkler": "^0.2.8"
+  }
+}
